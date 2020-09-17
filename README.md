@@ -12,8 +12,8 @@ When all iterations of each process are over, I print the statistics (average wa
 **You can perform multiple executions of the program for different numbers of entries, processes (peers) as well as percentage of readers / writers to observe and compare the results with each other.**
 
 ## Execution 
-1) make
+1) **make**
 
-2) ./coordinator number_of_peers number_of_Entries Ratio Iteration Times
+2) **./coordinator number_of_peers number_of_Entries Ratio Iteration Times**
 
-3) make clean
+3) **make clean**
